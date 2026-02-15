@@ -30,4 +30,6 @@ Kullanılan Yazılım Tasarım Desenleri
 Nasıl Çalıştırılır?
 1. Proje klasörüne gidin:
 ```bash
+python main.py
+
 cd trafik_analizi
